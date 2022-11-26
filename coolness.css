@@ -4,8 +4,11 @@
 }
 
 .banner {
+    width: 100%;
+    height: 100vh;
     background-image: url(images/abstract-white-and-grey-pattern-background-design-abstract-graphic-design-white-and-grey-banner-pattern-background-web-template-abstract-white-wallpaper-abstract-white-background-free-vector.webp);
-    width: 1024px;
+    background-position: center;
+    background-size: cover;
 }
 
 .text {
