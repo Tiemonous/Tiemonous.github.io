@@ -1,3 +1,8 @@
+@font-face {
+    font-family:minecraft;
+    src: url(fonts/1_Minecraft-Regular.ttf);
+}
+
 .banner {
-    background-image: url(https://pycom.io/wp-content/uploads/2020/03/Website-Light-grey-Supergraphic-banner.png);
+    background-image: url(images/abstract-white-and-grey-pattern-background-design-abstract-graphic-design-white-and-grey-banner-pattern-background-web-template-abstract-white-wallpaper-abstract-white-background-free-vector.webp);
 }
